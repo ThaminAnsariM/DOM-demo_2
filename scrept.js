@@ -40,7 +40,7 @@ var br7 = linebrk("br");
 
 var password = lable("lable","for","pwd","Password");
 var br8 = linebrk("br");
-var inputP = inputs("input","type","text","name","pwd","id","pwd");
+var inputP = inputs("input","type","password","name","pwd","id","pwd");
 
 document.body.append(Firstname,br,inputF,br1,Middlename,br2,inputM,br3,Lastname,br4,inputL,br5,Email,br6,inputE,br7,password,br8,inputP);
 
